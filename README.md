@@ -1,3 +1,2 @@
 # hello-word
-csci3521hw
-this is the feature branch
+Hello, I'm Muquan at CUHK CSE!
